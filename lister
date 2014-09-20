@@ -1,2 +1,2 @@
  #!/bin/bash
- for i in `seq 1 1000`;  do  echo -e  '=image("http://url.dom/file.ext?r='$i", 3)" >> test ; done 
+ for i in `seq 1 1000`;  do  echo -e  '=image("http://example.com/file?r='$i", 3)" >> list ; done 
